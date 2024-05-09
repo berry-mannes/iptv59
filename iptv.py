@@ -11,7 +11,7 @@ import eventlet
 eventlet.monkey_patch()
 
 urls = [
-    "https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=iptv%2Flive%2Fzh_cn.js", 
+    "https://www.zoomeye.org/searchResult?q=iptv%2Flive%2Fzh_cn.js", 
     ]
 
 def modify_urls(url):
