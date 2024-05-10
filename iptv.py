@@ -11,7 +11,7 @@ import eventlet
 eventlet.monkey_patch()
 
 urls = [
-    "https://www.zoomeye.org/searchResult?q=ZHGXTV%20%2Bcountry%3ACN%20%2Bsubdivisions%3A%E5%9B%9B%E5%B7%9D", 
+    "https://quake.360.net/quake/#/searchResult?searchVal=iptv%2Flive%2Fzh_cn.js&selectIndex=quake_service&latest=true", 
     ]
 
 def modify_urls(url):
