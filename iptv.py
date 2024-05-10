@@ -11,7 +11,7 @@ import eventlet
 eventlet.monkey_patch()
 
 urls = [
-    "https://quake.360.net/quake/#/searchResult?searchVal=iptv%2Flive%2Fzh_cn.js&selectIndex=quake_service&latest=true", 
+    "https://www.shodan.io/search?query=iptv/live/zh_cn.js", 
     ]
 
 def modify_urls(url):
