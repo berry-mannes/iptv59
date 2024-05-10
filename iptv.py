@@ -11,7 +11,7 @@ import eventlet
 eventlet.monkey_patch()
 
 urls = [
-    "https://www.shodan.io/search?query=iptv/live", 
+    "https://www.shodan.io/search?query=iptv/live/", 
     ]
 
 def modify_urls(url):
