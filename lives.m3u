@@ -1,1 +1,73 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://180.143.82.217:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://180.143.82.217:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://180.143.82.217:8181/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://180.143.82.217:8181/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://180.143.82.217:8181/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://180.143.82.217:8181/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://180.143.82.217:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://180.143.82.217:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://180.143.82.217:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://116.21.120.228:4433/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",星空卫视
+http://180.143.82.217:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://116.21.120.228:4433/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://116.21.120.228:4433/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://180.143.82.217:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://116.21.120.228:4433/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://180.143.82.217:8181/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",DTV1
+http://180.143.82.217:8181/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",南方1
+http://180.143.82.217:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",DTV2
+http://180.143.82.217:8181/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",预留2
+http://180.143.82.217:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",DTV3
+http://180.143.82.217:8181/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",南方3
+http://180.143.82.217:8181/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",DTV4
+http://180.143.82.217:8181/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",南方4
+http://180.143.82.217:8181/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",中国MTV
+http://180.143.82.217:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",佛山影视
+http://180.143.82.217:8181/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",凤凰中文
+http://180.143.82.217:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",凤凰资讯
+http://180.143.82.217:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",凤凰资讯
+http://180.143.82.217:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",广东体育
+http://116.21.120.228:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",广东新闻
+http://180.143.82.217:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",广东珠江
+http://180.143.82.217:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",广州台
+http://180.143.82.217:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",廉江公共
+http://180.143.82.217:8181/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",本港台
+http://180.143.82.217:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",翡翠台
+http://180.143.82.217:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
