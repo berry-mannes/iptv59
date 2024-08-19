@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://1.193.112.67:8899/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",嘉佳卡通
-http://1.193.112.67:8899/tsfile/live/0017_22.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",登封综合
-http://1.193.112.67:8899/tsfile/live/0018_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",美食汇
-http://1.193.112.67:8899/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
