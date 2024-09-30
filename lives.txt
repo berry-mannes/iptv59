@@ -1,3 +1,10 @@
 央视频道,#genre#
+CCTV7,http://113.218.230.180:8081/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://113.218.230.180:8081/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
+南方卫视,http://113.218.230.180:8081/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://113.218.230.180:8081/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://113.218.230.180:8081/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
+优漫卡通,http://113.218.230.180:8081/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南国际,http://113.218.230.180:8081/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
