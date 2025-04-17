@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://171.38.78.72:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://171.38.78.72:8181/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://171.38.78.72:8181/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV11
@@ -9,6 +13,8 @@ http://171.38.78.72:8181/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 http://171.38.78.72:8181/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://171.38.78.72:8181/tsfile/live/0125_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://171.38.78.72:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",DTV1
 http://171.38.78.72:8181/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",DTV2
@@ -23,3 +29,5 @@ http://171.38.78.72:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 http://171.38.78.72:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",凤凰香港
 http://171.38.78.72:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",翡翠台
+http://171.38.78.72:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
