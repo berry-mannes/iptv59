@@ -1,3 +1,4 @@
 央视频道,#genre#
 卫视频道,#genre#
 其他频道,#genre#
+纪实人文,http://106.46.145.157:10443/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
