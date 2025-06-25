@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://219.145.93.74:10000/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://219.145.93.74:10000/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://219.145.93.74:10000/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://219.145.93.74:10000/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
